@@ -1,4 +1,4 @@
-# Live Demo in html format
+# Live Demo 
 
 This is a machine learning project aiming to predict heart failure, implementing multiple models such as LDA, QDA, random forest, KNN and more. Finally choose the best model to do the final prediction and getting an accuracy almost 90%. 
 
